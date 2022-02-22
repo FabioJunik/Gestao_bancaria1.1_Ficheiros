@@ -1,0 +1,17 @@
+Nome : Artur Mendes Da Conseição
+BI : 091283127KS902
+BI do representante: 009239232KN109
+Data de nascimento : 12/11/2009
+Telefone : 924583483
+Sexo : Masculino
+Senha : 9816
+NIF : 091283127KS902
+NIF do representante : 009239232KN109
+Número de conta : 9817402471347
+IBAN : AO06004000009817402471347
+Coreio electronico : arturmendes@gmail.com
+Abilitação literária : Ensino primário
+Estado ocupacional : Estudante
+Saldo : 10000
+Tipo de conta : ordem
+Cidadão : menor de idade

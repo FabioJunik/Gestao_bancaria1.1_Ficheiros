@@ -1,0 +1,3 @@
+08-12-2021 : Ativação de credito : 100000 :  : 115500
+08-12-2021 : Deposito : 20000 :  : 135500
+08-12-2021 : Apagamento parcial do credito :  : 10000 : 125500

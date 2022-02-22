@@ -1,0 +1,17 @@
+Nome : Fábio Madaleno Simão Dos Santos
+BI : 0093477632LA0965
+Número de conta : 5349407305505
+IBAN : AO06004000005349407305505
+Coreio electronico : fabio@gmail.com
+Abilitação literária : Ensino Superior
+Estado ocupacional : Estudante
+Saldo : 284350
+Data de nascimento : 27/06/2000
+Telefone : 994305471
+Sexo : Masculino
+Senha : 5348
+NIF : 0093477632LA0965
+Cidadão : Nacional
+Tipo de conta : ordem
+Credito : 515000
+Credito : 515000

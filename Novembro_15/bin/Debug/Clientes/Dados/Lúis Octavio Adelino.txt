@@ -1,0 +1,15 @@
+Nome : Lúis Octavio Adelino
+BI : 122029384LA190
+Número de conta : 4015492859545
+IBAN : AO06004000004015492859545
+Coreio electronico : luz@gmail.com
+Abilitação literária : Ensino primário
+Estado ocupacional : Estudante
+Saldo : 48000
+Data de nascimento : 02/03/2011 00
+Telefone : 992372412
+Sexo : Masculino
+Senha : 4015
+NIF : 122029384LA190
+Cidadão : Nacional
+Tipo de conta : ordem

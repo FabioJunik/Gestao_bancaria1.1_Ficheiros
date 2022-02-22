@@ -1,0 +1,17 @@
+Nome : Manuel Pereita Pinto
+BI : 209842394LB632
+Data de nascimento : 12/11/2021 00:00:00
+Telefone : 2342532523
+Sexo : Masculino
+Senha : 1187
+NIF : 209842394LB632
+NIF Nacinonal : 23875278423
+NIF da empresa : 641748993
+Número de conta : 1187400825744
+IBAN : AO06004000001187400825744
+Coreio electronico : mapepi@gmail.com
+Abilitação literária : Ensino primário
+Estado ocupacional : Trabalhador
+Saldo : 10000
+Tipo de conta : salario
+Cidadão : Estrangeiro

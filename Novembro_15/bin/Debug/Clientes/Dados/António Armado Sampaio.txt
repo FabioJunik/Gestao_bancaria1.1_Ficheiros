@@ -1,0 +1,15 @@
+Nome : António Armado Sampaio
+BI : 374846272SH1652
+Número de conta : 4730061906633
+IBAN : AO06004000004730061906633
+Coreio electronico : antoni@gmail.
+Abilitação literária : System.Windows.Forms.TextBox, Text: Ensino médio
+Saldo : 210200
+Data de nascimento : 17/08/2002
+Telefone : System.Windows.Forms.TextBox, Text: 3490820984
+Sexo : Masculino
+Senha : System.Windows.Forms.TextBox, Text: 4729
+NIF : 374846272SH1652
+Cidadão : Nacional
+Tipo de conta : ordem
+Credito : 20212781,8

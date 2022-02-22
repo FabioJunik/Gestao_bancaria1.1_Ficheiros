@@ -1,0 +1,15 @@
+Nome : Mauricio António Da Costa
+BI : 029498452bg038
+Número de conta : 7983228491931
+IBAN : AO06004000007983228491931
+Coreio electronico : mau@gmail.com
+Abilitação literária : Ensino Superior
+Estado ocupacional : Trabalhador
+Saldo : 5400
+Data de nascimento : 14/06/1994
+Telefone : 947245248
+Sexo : Masculino
+Senha : 7982
+NIF : 029498452bg038
+Cidadão : Nacional
+Tipo de conta : ordem

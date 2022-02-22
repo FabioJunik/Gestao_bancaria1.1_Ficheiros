@@ -1,0 +1,15 @@
+Nome : Crisgirl Da Gang
+BI : 290329768BN193
+Número de conta : 3921615929898
+IBAN : AO06004000003921615929898
+Coreio electronico : cris@gang.com
+Abilitação literária : Ensino Médio
+Estado ocupacional : Estudante
+Saldo : 5250
+Data de nascimento : 13/08/2004
+Telefone : 0924792464
+Sexo : Femenino
+Senha : 3921
+NIF : 290329768BN193
+Cidadão : Nacional
+Tipo de conta : ordem

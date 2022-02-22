@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{78D7A03F-CCB0-4811-B9A4-1EB6314EE926}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Novembro_15</RootNamespace>
+    <AssemblyName>Novembro_15</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Videos\IPIL\03.2019_2022                IDE´S\Visual Studios 2012\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constante.cs" />
+    <Compile Include="DadosDoCliente.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formManipulation.cs" />
+    <Compile Include="frm_conta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_conta.Designer.cs">
+      <DependentUpon>frm_conta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_conta_estrangeira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_conta_estrangeira.Designer.cs">
+      <DependentUpon>frm_conta_estrangeira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_conta_nacional.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_conta_nacional.Designer.cs">
+      <DependentUpon>frm_conta_nacional.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_credito.Designer.cs">
+      <DependentUpon>frm_credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dadosDoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dadosDoCliente.Designer.cs">
+      <DependentUpon>frm_dadosDoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_deposito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_deposito.Designer.cs">
+      <DependentUpon>frm_deposito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Menor_de_idade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Menor_de_idade.Designer.cs">
+      <DependentUpon>frm_Menor_de_idade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_pagamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_pagamentos.Designer.cs">
+      <DependentUpon>frm_pagamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_saque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_saque.Designer.cs">
+      <DependentUpon>frm_saque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_telefonia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_telefonia.Designer.cs">
+      <DependentUpon>frm_telefonia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_televisao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_televisao.Designer.cs">
+      <DependentUpon>frm_televisao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_transacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_transacoes.Designer.cs">
+      <DependentUpon>frm_transacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_transferencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_transferencia.Designer.cs">
+      <DependentUpon>frm_transferencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inicio.Designer.cs">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mostrar_extrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mostrar_extrato.Designer.cs">
+      <DependentUpon>Mostrar_extrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="operacoes.cs" />
+    <Compile Include="poupancas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="poupancas.Designer.cs">
+      <DependentUpon>poupancas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="stringManipulation.cs" />
+    <Compile Include="transacoes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transacoes.Designer.cs">
+      <DependentUpon>transacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="verificacao.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_conta.resx">
+      <DependentUpon>frm_conta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_conta_estrangeira.resx">
+      <DependentUpon>frm_conta_estrangeira.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_conta_nacional.resx">
+      <DependentUpon>frm_conta_nacional.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_credito.resx">
+      <DependentUpon>frm_credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dadosDoCliente.resx">
+      <DependentUpon>frm_dadosDoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_deposito.resx">
+      <DependentUpon>frm_deposito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Menor_de_idade.resx">
+      <DependentUpon>frm_Menor_de_idade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_pagamentos.resx">
+      <DependentUpon>frm_pagamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_saque.resx">
+      <DependentUpon>frm_saque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_telefonia.resx">
+      <DependentUpon>frm_telefonia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_televisao.resx">
+      <DependentUpon>frm_televisao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_transacoes.resx">
+      <DependentUpon>frm_transacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_transferencia.resx">
+      <DependentUpon>frm_transferencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inicio.resx">
+      <DependentUpon>inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mostrar_extrato.resx">
+      <DependentUpon>Mostrar_extrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="poupancas.resx">
+      <DependentUpon>poupancas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

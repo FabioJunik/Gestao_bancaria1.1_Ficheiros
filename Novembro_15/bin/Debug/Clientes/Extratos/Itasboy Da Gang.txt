@@ -1,0 +1,6 @@
+25-11-2021 : Transferência bancaria : 50000 :  : 50100
+26-11-2021 : Transferência bancaria :  : 50000 : 100
+07-12-2021 : Ativação de credito : 1000000 :  : 1000100
+07-12-2021 : Deposito : 2600000 :  : 3600100
+07-12-2021 : Apagamento parcial do credito :  : 1300000 : 2300100
+08-12-2021 : Ativação de credito : 500000 :  : 2800100

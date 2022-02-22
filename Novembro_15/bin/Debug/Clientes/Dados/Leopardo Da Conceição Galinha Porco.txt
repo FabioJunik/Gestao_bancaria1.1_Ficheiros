@@ -1,0 +1,14 @@
+Nome : Leopardo Da Conceição Galinha Porco
+BI : 302520952HI033
+Número de conta : 5377811487295
+IBAN : AO06004000005377811487295
+Coreio electronico : leopar@seval.com
+Abilitação literária : System.Windows.Forms.TextBox, Text: Ensino Médio
+Saldo : 20000
+Data de nascimento : 12/07/1984
+Telefone : System.Windows.Forms.TextBox, Text: 944943234
+Sexo : Masculino
+Senha : System.Windows.Forms.TextBox, Text: 5377
+NIF : 302520952HI033
+Cidadão : Nacional
+Tipo de conta : ordem

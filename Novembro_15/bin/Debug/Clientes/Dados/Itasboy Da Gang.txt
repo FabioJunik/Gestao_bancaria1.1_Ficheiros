@@ -1,0 +1,15 @@
+Nome : Itasboy Da Gang
+BI : 008978234KS8347
+Número de conta : 2490468861814
+IBAN : AO06004000002490468861814
+Coreio electronico : itas@gmail.com
+Abilitação literária : Ensino Médio
+Saldo : 2800100
+Data de nascimento : 25/08/1994
+Telefone : 993474093
+Sexo : Masculino
+Senha : 2490
+NIF : 008978234KS8347
+Cidadão : Nacional
+Tipo de conta : ordem
+Credito : 515000

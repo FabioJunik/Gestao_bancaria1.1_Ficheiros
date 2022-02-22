@@ -1,0 +1,15 @@
+Nome : Telma Francisco Samba
+BI : 0075753762LA2563
+Data de nascimento : 12/05/2003 05:21:46
+Telefone : 923494304
+Sexo : Feminino
+Senha : 3052
+NIF : 0075753762LA2563
+Número de conta : 3052386947511
+IBAN : AO06004000003052386947511
+Coreio electronico : telma@gmail.com
+Abilitação literária : Ensino secundário
+Estado ocupacional : Estudante
+Saldo : 10000
+Tipo de conta : ordem
+Cidadão : nacional

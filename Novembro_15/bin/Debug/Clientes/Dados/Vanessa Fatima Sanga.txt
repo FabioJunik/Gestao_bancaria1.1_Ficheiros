@@ -1,0 +1,15 @@
+Nome : Vanessa Fatima Sanga
+BI : 092380277BI482
+Número de conta : 1439533704251
+IBAN : AO06004000001439533704251
+Coreio electronico : vane009@gmail.com
+Abilitação literária : Ensino Superior
+Saldo : 125500
+Data de nascimento : 12/11/1989
+Telefone : 940367345
+Sexo : Feminino
+Senha : 1439
+NIF : 092380277BI482
+Cidadão : Nacional
+Tipo de conta : ordem
+Credito : 93000

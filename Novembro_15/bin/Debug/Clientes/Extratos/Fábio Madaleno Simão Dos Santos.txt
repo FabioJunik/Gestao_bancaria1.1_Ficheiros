@@ -1,0 +1,32 @@
+23-11-2021 : Deposito : 200 :  : 20300
+23-11-2021 : Saque :  : 10000 : 10300
+25-11-2021 : Recarga telefonica Movicel :  : 1000 : 119500
+25-11-2021 : Recarga telefonica Unitel :  : 2500 : 117000
+25-11-2021 : Recarga do cartão Zap :  : 2000 : 115000
+25-11-2021 : Deposito : 350 :  : 115350
+25-11-2021 : Recarga do cartão DSTV :  : 1000 : 114350
+25-11-2021 : Transferência bancaria :  : 50000 : 64350
+26-11-2021 : Deposito : 50000 :  : 114350
+26-11-2021 : Transferência bancaria : 3000 :  : 117350
+26-11-2021 : Transferência bancaria : 50000 :  : 167350
+26-11-2021 : Recarga telefonica Movicel :  : 2500 : 164850
+27-11-2021 : Transferência bancaria : 50000 :  : 214850
+27-11-2021 : Saque :  : 3000 : 211850
+29-11-2021 : Transferência bancaria :  : 25000 : 186850
+30-11-2021 : Deposito : 100000 :  : 286850
+02-12-2021 : Recarga do cartão DSTV :  : 2500 : 284350
+02-12-2021 : Deposito : 1000 :  : 142675
+03-12-2021 : Recarga telefonica Unitel :  : 20000 : 122975
+07-12-2021 : Ativação de credito : 500000 :  : 622975
+07-12-2021 : Deposito : 20000 :  : 642975
+07-12-2021 : Apagamento parcial do credito :  : 10000 : 632975
+07-12-2021 : Recarga telefonica Movicel :  : 10000 : 622975
+07-12-2021 : Deposito : 1000000 :  : 1622975
+07-12-2021 : Apagamento parcial do credito :  : 500000 : 1122975
+07-12-2021 : Deposito : 20000 :  : 1142975
+07-12-2021 : Apagamento parcial do credito :  : 5000 : 1137975
+07-12-2021 : Ativação de credito : 100000 :  : 1237975
+07-12-2021 : Deposito : 500000 :  : 1737975
+07-12-2021 : Apagamento parcial do credito :  : 103000 : 1634975
+07-12-2021 : Deposito : 1000 :  : 1635975
+08-12-2021 : Deposito : 1000 :  : 1636975

@@ -1,0 +1,9 @@
+26-11-2021 : Transferência bancaria :  : 3000 : 7000
+29-11-2021 : Transferência bancaria :  : 1200 : 5800
+29-11-2021 : Transferência bancaria :  : 1200 : 4600
+29-11-2021 : Transferência bancaria : 4000 :  : 8600
+30-11-2021 : Deposito : 50000 :  : 58600
+30-11-2021 : Recarga do cartão Zap :  : 10000 : 48600
+07-12-2021 : Ativação de credito : 1000000 :  : 1048600
+07-12-2021 : Deposito : 16000 :  : 1064600
+07-12-2021 : Apagamento parcial do credito :  : 8000 : 1056600

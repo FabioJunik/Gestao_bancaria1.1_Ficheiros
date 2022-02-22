@@ -1,0 +1,16 @@
+Nome : Maria Madalena Marta Mendes
+BI : 038502632BN292
+Data de nascimento : 12/11/2000
+Telefone : 993453746
+Sexo : Feminino
+Senha : 3253
+NIF : 038502632BN292
+Número de conta : 3253564260936
+IBAN : AO06004000003253564260936
+Coreio electronico : mmmm@gmail.com
+Abilitação literária : Ensino Superior
+Estado ocupacional : Trabalhador
+Saldo : 10000
+NIF da empresa : 009532322
+Tipo de conta : salario
+Cidadão : nacional

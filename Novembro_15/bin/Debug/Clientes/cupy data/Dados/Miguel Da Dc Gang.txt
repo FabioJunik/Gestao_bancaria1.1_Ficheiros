@@ -1,0 +1,15 @@
+Nome : Miguel Da Dc Gang
+BI : 094576823GF827
+Número de conta : 2529974313109
+IBAN : AO06004000002529974313109
+Coreio electronico : miguel@dc.com
+Abilitação literária : Ensino Superior
+Estado ocupacional : Estudante
+Saldo : 50000
+Data de nascimento : 15/05/1989
+Telefone : 94573234
+Sexo : Masculino
+Senha : 2529
+NIF : 094576823GF827
+Cidadão : Nacional
+Tipo de conta : ordem

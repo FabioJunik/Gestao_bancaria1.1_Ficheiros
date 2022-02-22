@@ -1,0 +1,16 @@
+Nome : Uzera Tarufi Jim
+BI : 09234852BA2459
+Número de conta : 3090761529596
+IBAN : AO06004000003090761529596
+Coreio electronico : uzera093@gmail.com
+Abilitação literária : Ensino Superior
+Estado ocupacional : Trabalhador
+Saldo : 10300
+Data de nascimento : 30/06/1994
+Telefone : 2323494013
+Sexo : Masculino
+Senha : 3090
+NIF : 09234852BA2459
+NIF da empresa :  
+Cidadão : Nacional
+Tipo de conta : salario

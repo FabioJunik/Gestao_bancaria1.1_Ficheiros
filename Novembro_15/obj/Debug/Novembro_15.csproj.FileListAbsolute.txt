@@ -1,0 +1,73 @@
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\bin\Debug\Novembro_15.exe.config
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.exe
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\bin\Debug\Novembro_15.exe
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\bin\Debug\Novembro_15.pdb
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.Form1.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.csproj.GenerateResource.Cache
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.inicio.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_conta_estrangeira.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_conta_nacional.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_Menor_de_idade.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_transacoes.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_Mostrar_extrato.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_poupancas.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_credito.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_conta.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\bin\Debug\Novembro_15.exe.config
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\bin\Debug\Novembro_15.exe
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\bin\Debug\Novembro_15.pdb
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.Form1.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_conta.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_conta_estrangeira.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_conta_nacional.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_credito.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_Menor_de_idade.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_transacoes.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.inicio.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_Mostrar_extrato.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_poupancas.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.Properties.Resources.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.csproj.CopyComplete
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.exe
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.pdb
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_deposito.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_saque.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_transferencia.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_pagamentos.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_telefonia.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_televisao.resources
+C:\Users\Fábio junic\Desktop\Novembro_15\Novembro_15\obj\Debug\Novembro_15.frm_dadosDoCliente.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\bin\Debug\Novembro_15.exe.config
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\bin\Debug\Novembro_15.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\bin\Debug\Novembro_15.pdb
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.csprojAssemblyReference.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.Form1.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_conta.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_conta_estrangeira.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_conta_nacional.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_credito.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_dadosDoCliente.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_deposito.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_Menor_de_idade.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_pagamentos.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_saque.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_telefonia.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_televisao.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_transacoes.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_transferencia.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.inicio.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_Mostrar_extrato.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.frm_poupancas.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.Properties.Resources.resources
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.csproj.GenerateResource.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.csproj.CoreCompileInputs.cache
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.csproj.CopyComplete
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.exe
+C:\Users\Fábio junic\Videos\Aulas\Project C#\Exercios 2021-2022\Proejcto\Gestão bancaria (project 2)\Novembro_15\obj\Debug\Novembro_15.pdb

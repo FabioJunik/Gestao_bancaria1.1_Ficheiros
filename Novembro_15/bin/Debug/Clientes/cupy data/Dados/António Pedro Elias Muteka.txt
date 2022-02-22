@@ -1,0 +1,15 @@
+Nome : António Pedro Elias Muteka
+BI : 003782347CG109
+Número de conta : 7231153204270
+IBAN : AO06004000007231153204270
+Coreio electronico : antoniopedro@outlook.com
+Abilitação literária : Ensino Supeior
+Estado ocupacional : Estudante
+Saldo : 48600
+Data de nascimento : 04/06/2000 00
+Telefone : 932345843
+Sexo : Femenino
+Senha : 7230
+NIF : 003782347CG109
+Cidadão : Nacional
+Tipo de conta : ordem

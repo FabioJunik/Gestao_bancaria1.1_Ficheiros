@@ -1,0 +1,15 @@
+Nome : João Avelino Manuel
+BI : 9373452890LA0282
+Número de conta : 5171393392648
+IBAN : AO06004000005171393392648
+Coreio electronico : jam@gmail.com
+Abilitação literária : Ensino primário
+Estado ocupacional : Estudante
+Saldo : 10101
+Data de nascimento : 27/10/2009 00
+Telefone : 993748093
+Sexo : Masculino
+Senha : 5170
+NIF : 9373452890LA0282
+Cidadão : Nacional
+Tipo de conta : ordem

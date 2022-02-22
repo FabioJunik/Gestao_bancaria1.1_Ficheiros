@@ -1,0 +1,15 @@
+Nome : Walter Antónia
+BI : 587538453TG347
+Número de conta : 5626144289490
+IBAN : AO06004000005626144289490
+Coreio electronico : walerantonio0a6@gmail.com
+Abilitação literária : Ensino Superior
+Saldo : 110000
+Data de nascimento : 25/12/1988
+Telefone : 935464625
+Sexo : Masculino
+Senha : 5625
+NIF : 587538453TG347
+Cidadão : Nacional
+Tipo de conta : ordem
+Credito : 103200

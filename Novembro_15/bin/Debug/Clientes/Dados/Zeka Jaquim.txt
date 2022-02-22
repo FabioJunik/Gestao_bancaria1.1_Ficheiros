@@ -1,0 +1,15 @@
+Nome : Zeka Jaquim
+BI : 049528389BG483
+Data de nascimento : 14/06/2000
+Telefone : 923495532
+Sexo : Masculino
+Senha : 9670
+NIF : 049528389BG483
+Número de conta : 9671681583965
+IBAN : AO06004000009671681583965
+Coreio electronico : zeka@gmail.com
+Abilitação literária : Ensino Médio
+Estado ocupacional : Trabalhador
+Saldo : 20000
+Tipo de conta : ordem
+Cidadão : nacional
