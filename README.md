@@ -8,6 +8,7 @@ Neste projecto podemos:
   - Difinir o tipo de conta;
   - Fazer transferências entre contas já cadastradar;
   - Controlar os extrados;
+  - Simular credito;
   .
   .
   .
