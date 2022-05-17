@@ -1,6 +1,6 @@
-# Gestao_bancaria1.1_Ficheiros
+# Gestao bancaria com Ficheiros
 
-Este é um projecto de gestão bancaria foi feito usuando os conceitos de ficheiros para a persistencia dos dados.
+Este projecto de gestão bancaria foi feito usuando os conceitos de ficheiros para a persistencia dos dados.
 #### Neste projecto podemos:
   - Adicionar novos Cliante;
   - Editar dados;
